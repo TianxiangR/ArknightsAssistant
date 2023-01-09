@@ -10,6 +10,8 @@ namespace ArknightsAssistant
     {
         static void Main(string[] args)
         {
+            Assistant assistant = new Assistant();
+            assistant.Run();
         }
     }
 }

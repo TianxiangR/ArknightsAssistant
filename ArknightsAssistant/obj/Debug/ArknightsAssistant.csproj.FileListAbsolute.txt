@@ -1,0 +1,8 @@
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\bin\Debug\ArknightsAssistant.exe.config
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\bin\Debug\ArknightsAssistant.exe
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\bin\Debug\ArknightsAssistant.pdb
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\obj\Debug\ArknightsAssistant.csproj.AssemblyReference.cache
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\obj\Debug\ArknightsAssistant.csproj.SuggestedBindingRedirects.cache
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\obj\Debug\ArknightsAssistant.csproj.CoreCompileInputs.cache
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\obj\Debug\ArknightsAssistant.exe
+C:\Users\64412\source\repos\ArknightsAssistant\ArknightsAssistant\obj\Debug\ArknightsAssistant.pdb
